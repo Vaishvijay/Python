@@ -1,3 +1,3 @@
-# python
+# Python
 
-LEARNING PYTHON
+LEARNING PYTHON!!
